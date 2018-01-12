@@ -69,7 +69,6 @@ end
 def runner
   welcome
   total = initial_round
-  #hit?(total)
   game_play(total)
 end
     
